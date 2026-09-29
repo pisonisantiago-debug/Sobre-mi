@@ -1,0 +1,15 @@
+h1    {
+    color:purple;
+    fill-rule: evenodd;
+}
+h2    {
+    color:darkcyan;
+    fill-rule: evenodd;
+}
+p    {
+    color:rgb(51, 255, 0);
+    fill-rule: evenodd;
+}
+body {
+    background-color:rgb(218, 124, 124);
+    }
